@@ -63,6 +63,7 @@ The temperature threshold can be modified in the Arduino sketch:
 
 ```cpp
 int temperatureThreshold = 40;
+```
 
 ## Conclusion
 
